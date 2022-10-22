@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muh-apip
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested in Frontend Web Developer
 - 🌱 I’m currently learning React JS
 
 <!---
