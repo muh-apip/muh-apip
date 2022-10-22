@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muh-apip
-- 👀 I’m interested in Music and Film
-- 🌱 I’m currently learning Web Programming
+- 👀 I’m interested in Frontend Developer
+- 🌱 I’m currently learning React JS
 
 <!---
 muh-apip/muh-apip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
