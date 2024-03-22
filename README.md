@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haviv</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 - 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **muhapip04@gmail.com**
