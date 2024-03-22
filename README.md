@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haviv</h1>
 
-<img align="center" alt="Coding" width="800" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="center" alt="Coding" width="1000" height="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🌱 I’m currently learning **React Js**
 
