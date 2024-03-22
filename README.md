@@ -13,10 +13,10 @@
 <!--   <a href="https://dev.to/vinssdroid" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vinssdroid" height="30" width="40" />
   </a> -->
-  <a href="https://linkedin.com/in/kevin-sipahutar-b65381220" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-haviv-4914aa291/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-sipahutar-b65381220" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/vinss#2593" target="blank">
+  <a href="https://discord.gg/muhaviv" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vinss#2593" height="30" width="40" />
   </a>
 </p>
