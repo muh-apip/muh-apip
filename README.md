@@ -8,11 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinss-droid&label=Profile%20views&color=0e75b6&style=flat" alt="vinss-droid" /> </p>
 
-- 🌱 I’m currently learning **Golang, MongoDB**
-
-- 💬 Ask me about **laravel**
-
-- 📫 How to reach me **ks.developer.id@gmail.com**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,5 +48,3 @@
   </a> 
 </p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vinss-droid?cardType=github&theme=tokyonight&preferLogin=false)](https://github.com/vinss-droid)
-[![My Awesome Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinss-droid&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/vinss-droid)
