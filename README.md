@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 28px; animation: moveText 2s linear infinite;">Muhammaad Haviv</h1>
+  <h1 style="font-size: 28px; animation: moveText 2s linear infinite;">Muhammad Haviv</h1>
 </div>
 
 <div align="center">
