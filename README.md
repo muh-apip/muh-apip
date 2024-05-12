@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 28px; >Muhammad Haviv</h1>
+  <h1 style="font-size: 28px;" >Muhammad Haviv</h1>
 </div>
 
 <div align="center">
