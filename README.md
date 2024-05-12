@@ -1,5 +1,19 @@
-<a href="https://linkedin.com/in/muhammaadhaviv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammaadhaviv" height="30" width="40" /></a>
-<a href="https://instagram.com/mhmmdhaviv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmdhaviv" height="30" width="40" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=muh-apip&show_icons=true&locale=en" alt="muh-apip" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muh-apip&show_icons=true&locale=en&layout=compact" alt="muh-apip" /></p>
+<!-- Connect with me -->
+<div align="center">
+  <a href="https://instagram.com/mhmmdhaviv" target="_blank" title="Connect with me on Instagram">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/muhammaadhaviv" target="_blank" title="Connect with me on LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</div>
 
+<!-- GitHub Stats -->
+<div>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=muh-apip&show_icons=true&locale=en" alt="muh-apip" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-apip&layout=compact" alt="muh-apip" />
+  </p>
+</div>
