@@ -23,10 +23,3 @@
   </p>
 </div>
 
-<style>
-  @keyframes moveText {
-    0% { transform: translateX(-10px); }
-    50% { transform: translateX(10px); }
-    100% { transform: translateX(-10px); }
-  }
-</style>
