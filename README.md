@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 28px; animation: moveText 2s linear infinite;">Muhammad Haviv</h1>
+  <h1 style="font-size: 28px; >Muhammad Haviv</h1>
 </div>
 
 <div align="center">
@@ -17,4 +17,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-apip&layout=compact&theme=dark" alt="muh-apip" />
   </p>
 </div>
-
