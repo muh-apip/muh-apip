@@ -1,14 +1,9 @@
 <div align="center">
-  <h1 style="font-size: 28px;" >Muhammad Haviv</h1>
-</div>
+</a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&weight=500&duration=3000&pause=2000&color=000ADA&background=FFE05300&center=true&vCenter=true&random=false&width=550&lines=The+only+way+to+do+great+work+is+to+love+what+you+do." alt="Typing SVG" />
+  
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/muhammad-haviv)
+[![](https://img.shields.io/badge/instagram-E4405F)](https://instagram.com/mhmmdhaviv)
 
-<div align="center">
-  <a href="https://instagram.com/mhmmdhaviv" target="_blank" title="Follow mhmmdhaviv on Instagram">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/muhammad-haviv" target="_blank" title="Connect with Muhammaad Haviv on LinkedIn">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
 </div>
 
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
