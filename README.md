@@ -2,7 +2,6 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&weight=500&duration=4000&pause=3000&color=000ADA&background=FFE05300&center=true&vCenter=true&random=false&width=550&lines=The+only+way+to+do+great+work+is+to+love+what+you+do." alt="Typing SVG" /></a>
 
-
 <a href="https://instagram.com/mhmmdhaviv">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
