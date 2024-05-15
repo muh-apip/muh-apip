@@ -2,8 +2,14 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&weight=500&duration=4000&pause=3000&color=000ADA&background=FFE05300&center=true&vCenter=true&random=false&width=550&lines=The+only+way+to+do+great+work+is+to+love+what+you+do." alt="Typing SVG" /></a>
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/muhammad-haviv)
-[![](https://img.shields.io/badge/instagram-E4405F)](https://instagram.com/mhmmdhaviv)
+
+<a href="https://instagram.com/mhmmdhaviv">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/muhammad-haviv">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
