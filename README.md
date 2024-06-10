@@ -1,4 +1,4 @@
-<!-- ![14a7977ee7bfb0a98c49d9393c1184db](https://github.com/rafia9005/rafia9005/assets/70046808/1d2b2db3-c813-412d-bada-460577c2fdba) -->
+
 ```python
 class Data:
     def __init__(self, name, email):
