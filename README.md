@@ -1,20 +1,16 @@
-<div align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&weight=500&duration=4000&pause=3000&color=000ADA&background=FFE05300&center=true&vCenter=true&random=false&width=550&lines=The+only+way+to+do+great+work+is+to+love+what+you+do." alt="Typing SVG" /></a>
+<!-- ![14a7977ee7bfb0a98c49d9393c1184db](https://github.com/rafia9005/rafia9005/assets/70046808/1d2b2db3-c813-412d-bada-460577c2fdba) -->
+```python
+class Data:
+    def __init__(self, name, email):
+        self.name = name
+        self.email = email
 
-<a href="https://instagram.com/mhmmdhaviv">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+    def Data(self):
+        print('nama saya : ', self.name)
+        print('email saya : ', self.email)
 
-<a href="https://linkedin.com/in/muhammad-haviv">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-</div>
+data = Data('Ahmad Rafi', 'rafia9005@gmail.com')
 
-<div  style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=muh-apip&show_icons=true&locale=en&theme=dark" alt="muh-apip" />
-  </p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-apip&layout=compact&theme=dark" alt="muh-apip" />
-  </p>
-</div>
+data.Data()
+```
