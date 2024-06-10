@@ -1,4 +1,3 @@
-
 ```python
 class Data:
     def __init__(self, name, email):
